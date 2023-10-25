@@ -1,9 +1,9 @@
  ________________________
 |_Requisitos Funcionales_|
 
-RF01 - Registrarse: El usuario deberá registrarse previamente al uso de este software
+RF01 - Registrarse: El usuario y el cliente deberá registrarse previamente al uso de este software
 
-RF02 - Iniciar sesión: El cliente debe poder iniciar sesión para acceder a su cuenta
+RF02 - Iniciar sesión: El cliente debe poder iniciar sesión para acceder a su cuenta. Por otro lado el repartidor también debe poder iniciar sesión para acceder a sus datos y estadísticas
 
 RF03 - Ver perfil: El cliente debe poder ver su perfil para tener acceso a sus datos 
 
@@ -30,6 +30,10 @@ RF13 - Ver incidencia: El sistema deberá mostrar las incidencias que hayan surg
 RF14 - Introducir datos de pago: El cliente debe poder introducir sus datos de pago para posteriormente realizar el mismo 
 
 RF15 - Pagar: El cliente deberá poder pagar para terminar de realizar el pedido 
+
+RF16 - Marcar pedido como entregado: El repartidor deberá poder marcar el pedido como entregado, una vez que haya realizado la acción
+
+RF17 - Añadir a la cesta: El usuario deberá poder añadir productos a la cesta, de esta forma podrá almacenarlos y posteriormente comprarlos
 
 
 
