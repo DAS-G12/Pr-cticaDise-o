@@ -1,6 +1,6 @@
 # ADD02 Almacenar informacion clientes
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-04
 
 ## Context and Problem Statement
