@@ -30,7 +30,11 @@ Se definen los métodos que tiene que tener la clase GestorPedidos.
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+* 001-Incorporar método realizarPedido()
+* 002-Incorporar método verInfoPedido()
+* 003-Incorporar método verInfoCliente()
+* 004-Incorporar método realizarPago()
+* 005-Incorporar método verRuta()
 
 ## Pros and Cons of the Options
 
