@@ -5,7 +5,7 @@
 
 ## Context and Problem Statement
 
-Se debe desacoplar la funcionalidad del componente y escoger el algoritmo adecuado en función de la demora del camión
+Se debe desacoplar la funcionalidad del componente y escoger el algoritmo adecuado en funcion de la demora del camion
 
 ## Decision Drivers
 
@@ -13,18 +13,15 @@ Se debe desacoplar la funcionalidad del componente y escoger el algoritmo adecua
 
 ## Considered Options
 
-* 001-Creación clase GestorRuta
-* 002-Creación clase Repartos
-* 003-Incorporar método elegirRuta()
-* 004-Incorporar método elegirAlgoritmo()
-* 005-Relación entre Repartos y GestorPedidos
+* 001-Creacion clase GestorRuta
+* 002-Creacion clase Repartos
+* 003-Incorporar metodo elegirRuta()
+* 004-Incorporar metodo elegirAlgoritmo()
+* 005-Relacion entre Repartos y GestorPedidos
 
 ## Decision Outcome
 
-* 002-Creación clase Repartos
-* 003-Incorporar método elegirRuta()
-* 004-Incorporar método elegirAlgoritmo()
-* 005-Relación entre Repartos y GestorPedidos
+Chosen option: "", because comes out best.
 
 ## Pros and Cons of the Options
 

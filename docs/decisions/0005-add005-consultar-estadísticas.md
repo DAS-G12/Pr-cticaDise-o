@@ -21,11 +21,17 @@ Se necesita un componente (Estadisticas) en el cual poder acceder al estado del 
 
 ## Decision Outcome
 
-* 001-relacion entre GestorPedidos y Estadisticas
-* 002-incorporar metodo getEstadoPedido()
-* 003-incorporar metodo getEstadoVehiculo()
-* 004-incorporar metodo getInfoCliente()
+Chosen option: "", because comes out best.
 
+### Positive Consequences
+
+* A la hora de desarrollar la aplicación las capas están bastante claras
+* El diseño final quedará bastante claro
+* Las relaciones entre capas pueden facilitar el proceso de comunicación entre componentes
+
+### Negative Consequences
+
+* Puede ser más difícil de adaptar
 
 ## Pros and Cons of the Options
 
