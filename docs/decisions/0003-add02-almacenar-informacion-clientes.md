@@ -1,4 +1,4 @@
-# ADD02 Almacenar informacion clientes
+# Almacenar informacion clientes
 
 * Status: accepted
 * Date: 2023-11-04
