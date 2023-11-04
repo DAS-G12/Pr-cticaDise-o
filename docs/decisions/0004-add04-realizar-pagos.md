@@ -1,6 +1,6 @@
 # ADD04 Realizar pagos
 
-* Status: accepted
+* Status: proposed
 * Date: 2023-11-04
 
 ## Context and Problem Statement
@@ -9,8 +9,8 @@ Es necesario un componente que garantice la seguridad en los pagos (pasarela de 
 
 ## Decision Drivers
 
-* RF14 - Introducir datos de pago
 * RF15 - Pagar
+* RF14 - Introducir datos de pago
 
 ## Considered Options
 
