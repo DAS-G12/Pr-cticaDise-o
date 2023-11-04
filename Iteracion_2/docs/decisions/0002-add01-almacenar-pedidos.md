@@ -1,4 +1,4 @@
-# ADD01-Almacenar pedidos
+# Almacenar pedidos
 
 * Status: accepted
 * Date: 2023-11-04
