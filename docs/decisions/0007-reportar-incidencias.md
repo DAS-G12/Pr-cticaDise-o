@@ -20,7 +20,10 @@ Es necesario reportar las incidencias que se produzcan en el reparto(camion aver
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+* 001-Creacion clase Incidencias
+* 002-Incorporar método reportarIncidencia()
+* 004-Relación entre Incidencias y GestorPedidos
+
 
 ## Pros and Cons of the Options
 
