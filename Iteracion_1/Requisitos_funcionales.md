@@ -35,6 +35,7 @@ RF16 - Marcar pedido como entregado: El repartidor deberá poder marcar el pedid
 
 RF17 - Añadir a la cesta: El usuario deberá poder añadir productos a la cesta, de esta forma podrá almacenarlos y posteriormente comprarlos
 
+RF18 - Ver ruta pedido: El empleado deberá conocer la ruta escogida para el pedido
 
 
 
