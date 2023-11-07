@@ -1,4 +1,4 @@
-# ADD04 Realizar pagos
+# Realizar pagos
 
 * Status: proposed
 * Date: 2023-11-04
