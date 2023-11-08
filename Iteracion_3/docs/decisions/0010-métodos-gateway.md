@@ -43,7 +43,7 @@ Debe haber un método getInfo() que devuelva la información de la base de datos
 
 ### 002
 
-Debe haber un método getInfo() que guarde o modifique la información en la base de datos
+Debe haber un método getInfo(HTTP_Request) que reciba un HTTP request y que guarde o modifique la información en la base de datos
 
 ### 003
 
