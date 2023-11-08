@@ -2,7 +2,8 @@
 
 Práctica 1: Captura y Representación de Decisiones de Diseño
 
-|           **Grupo12**         |
+Grupo12
+
 |            **Nombre**           | **Rol** |
 |:-------------------------------:|:-------:|
 |      Emma García Rodríguez      |   ASJ   |
