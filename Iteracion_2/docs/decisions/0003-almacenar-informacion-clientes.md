@@ -26,4 +26,4 @@ Chosen option: "001-Crear las clases correspondientes", because Se crea la clase
 
 ### 001-Crear las clases correspondientes
 
-Se crea la clase cliente
+Se crea la clase Cliente
