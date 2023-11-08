@@ -1,6 +1,8 @@
 # Reportar incidencias
 
-* Status: proposed
+* Status:
+*         Decision 004 - ACCEPTED
+*         Decision 003 - REJECTED
 * Date: 2023-11-04
 
 ## Context and Problem Statement
