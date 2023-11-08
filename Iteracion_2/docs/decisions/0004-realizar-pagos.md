@@ -1,6 +1,6 @@
 # Realizar pagos
 
-* Status: proposed
+* Status: ACCEPTED
 * Date: 2023-11-04
 
 ## Context and Problem Statement
