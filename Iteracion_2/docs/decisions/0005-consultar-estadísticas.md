@@ -1,4 +1,4 @@
-# ADD005 Consultar estadísticas
+# Consultar estadísticas
 
 * Status: proposed
 * Date: 2023-11-04
