@@ -1,9 +1,8 @@
 # Métodos Cliente
 
-* Status: proposed
+* Status: ACCEPTED
 * Date: 2023-11-08
-
-Technical Story: M
+  
 
 ## Context and Problem Statement
 
