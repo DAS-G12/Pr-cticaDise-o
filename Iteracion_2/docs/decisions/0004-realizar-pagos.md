@@ -14,8 +14,8 @@ Es necesario un componente que garantice la seguridad en los pagos (pasarela de 
 
 ## Considered Options
 
-* 001-Crear clase correspondiente
+* 001-Crear clase PlataformaPago
 
 ## Decision Outcome
 
-Chosen option: "001-Crear clase correspondiente", because se crea un componente el cual es una API que se relaciona con el componente GestorPedidos para poder llevar a cabo los pagos de forma segura
+Chosen option: "001-Crear clase PlataformaPago", because se crea un componente el cual es una API que se relaciona con el componente GestorPedidos para poder llevar a cabo los pagos de forma segura
