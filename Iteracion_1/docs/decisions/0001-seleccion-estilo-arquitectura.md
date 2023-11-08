@@ -1,6 +1,6 @@
 # Seleccion-Estilo-Arquitectura
 
-* Status: proposed
+* Status: ACCEPTED
 * Date: 2023-10-24
 
 ## Context and Problem Statement
