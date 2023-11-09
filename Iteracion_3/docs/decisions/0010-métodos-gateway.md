@@ -33,7 +33,10 @@ Necesita una clase Gateway que se comunique con la base de datos y con el Gestor
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+* 001 - Incorporar método getInfo()
+* 002 - Incorporar método setInfo()
+* 003 - Incorporar método connectDB()
+* 004 - Incorporar método disconnectDB()
 
 ## Pros and Cons of the Options
 
