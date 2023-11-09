@@ -1,6 +1,6 @@
 # Almacenar informacion clientes
 
-* Status: accepted
+* Status: deprecated
 * Date: 2023-11-04
 
 ## Context and Problem Statement

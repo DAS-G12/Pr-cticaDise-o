@@ -1,8 +1,7 @@
 # Métodos Cliente
 
-* Status: ACCEPTED
+* Status: deprecated
 * Date: 2023-11-08
-  
 
 ## Context and Problem Statement
 
@@ -24,10 +23,7 @@ Los usuarios que entren por primera vez en la aplicación deben registrar sus da
 
 ## Decision Outcome
 
-* 001 - Incorporar método iniciarSesión()
-* 002 - Incorporar método registrarse()
-* 003 - Incorporar método modificarPerfil()
-* 004 - Inocrporar método verPerfil()
+Chosen option: ""
 
 ## Pros and Cons of the Options
 
