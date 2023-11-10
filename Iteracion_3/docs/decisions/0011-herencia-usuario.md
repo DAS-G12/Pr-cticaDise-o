@@ -20,7 +20,9 @@ Nos encontramos con dos tipos de usuarios de la aplicación: clientes (los que r
 
 ## Decision Outcome
 
-Chosen option: ""
+* 001-Creación clase Usuario
+* 002-Creación clase Cliente
+* 003-Creación clase Trabajador
 
 ## Pros and Cons of the Options
 
