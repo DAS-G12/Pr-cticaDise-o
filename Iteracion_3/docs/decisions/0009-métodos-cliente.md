@@ -16,31 +16,29 @@ Los usuarios que entren por primera vez en la aplicación deben registrar sus da
 
 ## Considered Options
 
-* 001 - Incorporar método iniciarSesión()
-* 002 - Incorporar método registrarse()
-* 003 - Incorporar método modificarPerfil()
-* 004 - Inocrporar método verPerfil()
+* 001-Incorporar método iniciarSesión()
+* 002-Incorporar método registrarse()
+* 003-Incorporar método modificarPerfil()
+* 004-Inocrporar método verPerfil()
 
 ## Decision Outcome
 
-* 001 - Incorporar método iniciarSesión()
-* 002 - Incorporar método registrarse()
-* 003 - Incorporar método modificarPerfil()
-* 004 - Inocrporar método verPerfil()
+Chosen option: ""
+
 ## Pros and Cons of the Options
 
-### 001
+### 001-Incorporar método iniciarSesión()
 
 A través de la clase Clientes, el usuario debe poder iniciar sesión con sus datos de registro.
 
-### 002
+### 002-Incorporar método registrarse()
 
 A través de la clase Clientes, el usuario debe poder registrarse con sus datos personales.
 
-### 003
+### 003-Incorporar método modificarPerfil()
 
 A través de la clase Clientes, el usuario debe poder modificar sus datos de registro.
 
-### 004
+### 004-Inocrporar método verPerfil()
 
 A través de la clase Clientes, el usuario debe poder consultar sus datos personales.
