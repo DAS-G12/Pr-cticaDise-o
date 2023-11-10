@@ -2,7 +2,7 @@
 
 Práctica 1: Captura y Representación de Decisiones de Diseño
 
-Grupo12
+Grupo 12
 
 |            **Nombre**           | **Rol** |
 |:-------------------------------:|:-------:|
