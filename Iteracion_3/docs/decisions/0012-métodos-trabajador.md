@@ -19,7 +19,8 @@ El trabajador tiene métodos exclusivos del trabajador, a los que los clientes n
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+* 001-Incorporar método marcarEntregado()
+* 002-Incorporar método verRuta()
 
 ## Pros and Cons of the Options
 
