@@ -20,7 +20,10 @@ Hemos decidido utilizar una estructura por 4 capas horizontales. Para ello hemos
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+* 001-Crear capa de cliente
+* 002-Crear capa de presentación
+* 003-Crear capa de gestor de negocios
+* 004-Crear capa de datos
 
 ## Pros and Cons of the Options
 
