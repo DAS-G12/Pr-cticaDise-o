@@ -21,7 +21,11 @@ Se debe desacoplar la funcionalidad del componente y escoger el algoritmo adecua
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+* 001-Creacion clase GestorRuta
+* 002-Creacion clase Repartos
+* 003-Incorporar metodo elegirRuta()
+* 004-Incorporar metodo elegirAlgoritmo()
+* 005-Relacion entre Repartos y GestorPedidos
 
 ## Pros and Cons of the Options
 
