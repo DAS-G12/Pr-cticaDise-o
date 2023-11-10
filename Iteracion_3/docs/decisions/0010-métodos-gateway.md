@@ -26,32 +26,29 @@ Necesita una clase Gateway que se comunique con la base de datos y con el Gestor
 
 ## Considered Options
 
-* 001 - Incorporar método getInfo()
-* 002 - Incorporar método setInfo()
-* 003 - Incorporar método connectDB()
-* 004 - Incorporar método disconnectDB()
+* 001-Incorporar método getInfo()
+* 002-Incorporar método setInfo()
+* 003-Incorporar método connectDB()
+* 004-Incorporar método disconnectDB()
 
 ## Decision Outcome
 
-* 001 - Incorporar método getInfo()
-* 002 - Incorporar método setInfo()
-* 003 - Incorporar método connectDB()
-* 004 - Incorporar método disconnectDB()
+Chosen option: "", because comes out best.
 
 ## Pros and Cons of the Options
 
-### 001
+### 001-Incorporar método getInfo()
 
 Debe haber un método getInfo() que devuelva la información de la base de datos
 
-### 002
+### 002-Incorporar método setInfo()
 
 Debe haber un método getInfo(HTTP_Request) que reciba un HTTP request y que guarde o modifique la información en la base de datos
 
-### 003
+### 003-Incorporar método connectDB()
 
 El Gateway debe contar con un método que le permita conectarse con las bases de datos.
 
-### 004
+### 004-Incorporar método disconnectDB()
 
 El Gateway debe contar con un método que le permita desconectarse de las bases de datos.
